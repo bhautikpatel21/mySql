@@ -14,7 +14,7 @@ insert into test (id, firstname, lastName, gender, email, mobileNo) values (1, '
 
 
 insert into test (id, firstname, lastName, gender, email, mobileNo) values
-(2, 'Vijay', "Solanki", "Male", "vijay@test.in", 123456789),
+(2, 'Bhautik', "Dudhat", "Male", "bhautik@test.in", 123456789),
 (3, 'Monika', "kathiriya", "Female", "monika@test.in", 123456789),
 (4, 'Srushti', "Sojitra", "Female", "srushti@test.in", 123456789),  
 (5, 'Vijay', "Dankhara", "Male", "vijay123@test.in", 123456789);
